@@ -35,8 +35,8 @@ body {
 }
 
 .heading img {
-    height: 90px;
-    width: 60px;
+    height: 140px;
+    width: 100px;
     object-fit: fill;
     opacity: 0;
     animation: show 2s ease-in-out 3s forwards;
